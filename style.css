@@ -34,7 +34,7 @@ nav ul li:hover {
 /* Banner */
 
 #banner {
-    background-image: url("./img/pattern.jpeg");
+    background-image: url("./pattern.jpeg");
     background-position: center;
     background-size: cover;
     padding: 160px;
